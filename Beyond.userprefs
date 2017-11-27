@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{E99E582E-1461-40FC-9198-E37B5EEBB212}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Activity/MainActivity.cs">
+    <Files>
+      <File FileName="Droid/Activity/MainActivity.cs" Line="34" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Beyond" expanded="True">
+            <Node name="Beyond.Droid" expanded="True">
+              <Node name="Activity" expanded="True">
+                <Node name="MainActivity.cs" selected="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Beyond.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_24" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Beyond.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.259AA717-EB4A-4719-9014-E57A9A41A87F">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Beyond.iOS>
+</Properties>

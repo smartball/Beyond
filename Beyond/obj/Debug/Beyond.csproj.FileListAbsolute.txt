@@ -1,0 +1,5 @@
+/Users/superball/Projects/Beyond/Beyond/bin/Debug/Beyond.dll
+/Users/superball/Projects/Beyond/Beyond/bin/Debug/Beyond.pdb
+/Users/superball/Projects/Beyond/Beyond/obj/Debug/Beyond.csproj.CoreCompileInputs.cache
+/Users/superball/Projects/Beyond/Beyond/obj/Debug/Beyond.dll
+/Users/superball/Projects/Beyond/Beyond/obj/Debug/Beyond.pdb
